@@ -1,0 +1,185 @@
+body {
+	background-color: rgb(255, 172, 172);
+	margin: 0;
+	text-align: center;
+	font-family: Century Gothic;  
+}
+
+h1 {
+	margin: 50px auto 0 auto;
+	font-family: 'Sacramento', cursive;
+	font-size: 5.2rem;
+	color: #FBFFB1;
+}
+
+.portada 
+img{border-radius: 50%;}
+
+
+}
+.portada {
+	font-family: Segoe Script;
+
+}
+
+h2, h3 {
+	font-family:'Segoe Script', sans-serif;
+
+}
+legend {
+	
+	background-color: #FFBFA9; 
+	padding: 15px;
+	border-radius: 10px;
+
+
+}
+
+.personal {
+	background-color: #FFEBB4;
+	margin: 0px 350px;
+	padding: 0.5px;
+	border-radius: 10px;
+	margin-top: 35px;
+
+}
+
+.informacion {
+	background-color:#FFBFA9;
+	margin: 0px 350px;
+	border-radius: 10px;
+	padding: 15px;
+
+
+}
+
+.informacionacademica {
+	background-color: #FFEBB4;
+	padding: 8px;
+	border-radius: 10px;
+	margin-top: 70px;
+
+
+}
+
+.estudios {
+	display: flex;
+}
+
+.subtitulos {
+	margin: 0px 50px;
+
+}
+.laboral {
+	background-color: #FFEBB4;
+	margin: 0px 300px;
+	padding: 1px;
+	border-radius: 10px;
+
+	
+}
+.trabajos {
+	background-color:#FFBFA9;
+	margin: 0px 300px;
+	border-radius: 10px;
+	padding: 15px;
+
+
+}
+.decoracion {
+	margin: 35px;
+}
+.foto2 {
+	margin-left: 100px;
+}
+
+.foto1 {
+	margin-left: 80px;
+
+}
+
+.habilidades {
+	background-color: #FFEBB4;
+	text-align: left;
+	margin: 80px 560px;
+	border-radius: 10px;
+	padding: 15px;
+	margin-top: 20px;
+
+}
+
+.final {
+	display: center;
+	background-color: #FBFFB1;
+    line-width: 10px;
+    padding: 2px;
+    line-height: 1;
+    
+}
+
+.iconos {
+	margin-top: 50px;
+	padding: 20px;
+	
+}
+
+.lapiz {
+	margin-right: 25px;
+}
+
+.coser {
+	margin-right: 30px;
+
+}
+.paleta {
+	margin-right: 30px;
+}
+.nota {
+	margin-right: 30px;
+
+}
+
+.referencias {
+	background-color: #FFBFA9;
+	margin: 0px 600px;
+	border-radius: 20px;
+	margin-top: 20px;
+
+}
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
